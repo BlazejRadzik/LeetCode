@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BlazejRadzik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BlazejRadzik/LeetCode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/BlazejRadzik/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/BlazejRadzik/LeetCode/tree/master/0066-plus-one) |
 ## String
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BlazejRadzik/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/BlazejRadzik/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/BlazejRadzik/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BlazejRadzik/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/BlazejRadzik/LeetCode/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |
