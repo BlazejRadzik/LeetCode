@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BlazejRadzik/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/BlazejRadzik/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BlazejRadzik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BlazejRadzik/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/BlazejRadzik/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/BlazejRadzik/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/BlazejRadzik/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/BlazejRadzik/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BlazejRadzik/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BlazejRadzik/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BlazejRadzik/LeetCode/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
