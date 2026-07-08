@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BlazejRadzik/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BlazejRadzik/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BlazejRadzik/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/BlazejRadzik/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/BlazejRadzik/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/BlazejRadzik/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/BlazejRadzik/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/BlazejRadzik/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/BlazejRadzik/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/BlazejRadzik/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/BlazejRadzik/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/BlazejRadzik/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BlazejRadzik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
