@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BlazejRadzik/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/BlazejRadzik/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/BlazejRadzik/LeetCode/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/BlazejRadzik/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BlazejRadzik/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BlazejRadzik/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/BlazejRadzik/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/BlazejRadzik/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
