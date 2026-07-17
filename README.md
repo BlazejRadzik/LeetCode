@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BlazejRadzik/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/BlazejRadzik/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/BlazejRadzik/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/BlazejRadzik/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BlazejRadzik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BlazejRadzik/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/BlazejRadzik/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/BlazejRadzik/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BlazejRadzik/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BlazejRadzik/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/BlazejRadzik/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/BlazejRadzik/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/BlazejRadzik/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/BlazejRadzik/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/BlazejRadzik/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BlazejRadzik/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BlazejRadzik/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BlazejRadzik/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
