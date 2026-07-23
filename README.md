@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/BlazejRadzik/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/BlazejRadzik/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/BlazejRadzik/LeetCode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/BlazejRadzik/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/BlazejRadzik/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BlazejRadzik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/BlazejRadzik/LeetCode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
