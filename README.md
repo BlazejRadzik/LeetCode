@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/BlazejRadzik/LeetCode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/BlazejRadzik/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/BlazejRadzik/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/BlazejRadzik/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/BlazejRadzik/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/BlazejRadzik/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/BlazejRadzik/LeetCode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/BlazejRadzik/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/BlazejRadzik/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/BlazejRadzik/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/BlazejRadzik/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
